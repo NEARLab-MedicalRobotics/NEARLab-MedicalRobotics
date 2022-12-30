@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**NEARLab-MedicalRobotics/NEARLab-MedicalRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+<a href="https://nearlab.polimi.it/medical">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo_white.png">
+  <img alt="NEARLab" src="logo_black.png" width="600" > 
+</picture>
+</a> </p>
 
-Here are some ideas to get you started:
+<hr>
+<h1 align="center"> NEARLab - Medical Robotics Section</h1>
+<h3 align="center"> DEIB: Department of Electronics, Information and Bioengineering</h3>
+<h3 align="center">Politecnico di Milano</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
