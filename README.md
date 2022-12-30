@@ -14,4 +14,4 @@
 
 <hr>
 
-<h1 align="center"><a href="https://nearlab.polimi.it/medical"> 🌍Our Website🌍  </a></h1>
+<h1 align="center"><a href="https://nearlab.polimi.it/medical"> Visit the Website </a></h1>
