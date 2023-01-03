@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<a href="https://nearlab.polimi.it/medical">
+<a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logo_white.png">
   <img alt="NEARLab" src="logo_black.png" width="600" > 
@@ -14,4 +14,10 @@
 
 <hr>
 
-<h1 align="center"><a href="https://nearlab.polimi.it/medical"> 🌍Our Website🌍  </a></h1>
+<p align="center"> 
+<a href="https://nearlab.polimi.it/medical">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="buttontowebsite_white.png">
+  <img alt="website" src="buttontowebsite_dark.png" width="200" > 
+</picture>
+</a> </p>
