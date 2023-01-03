@@ -20,4 +20,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="buttontowebsite_white.png">
   <img alt="website" src="buttontowebsite_dark.png" width="200" > 
 </picture>
-</a> </p>
+</a> 
+<a href="https://www.linkedin.com/company/87419486/admin/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="linkedin_w.png">
+  <img alt="linkedin" src="linkedin_b.png" width="200" > 
+</picture>
+</a> 
+</p>
